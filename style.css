@@ -44,7 +44,7 @@ h2{
 }
 
 body{
-    background-image: url('BGP.jpg');
+    background-image: url('/assets/BGP.jpg');
     text-align: center;
 }
 .Myself{
